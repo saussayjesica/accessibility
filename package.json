@@ -4,14 +4,19 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@atlaskit/code": "^8.0.2",
+    "babel-plugin-styled-components": "^1.5.1",
     "eslint": "^5.4.0",
     "gatsby": "next",
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
     "gatsby-plugin-react-helmet": "next",
+    "gatsby-plugin-styled-components": "^2.0.11",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "styled-components": "^3.4.4",
+    "uuid": "^3.3.2"
   },
   "keywords": [
     "gatsby"
