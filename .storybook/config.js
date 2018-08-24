@@ -1,4 +1,5 @@
 import { configure } from '@storybook/react'
+import '../src/components/layout.css'
 
 configure(loadStories, module)
 function loadStories() {
